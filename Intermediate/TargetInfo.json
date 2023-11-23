@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "ObstacleAssault",
-			"Path": "C:\\Users\\alexe\\OneDrive\\Documents\\Unreal Projects\\ObstacleAssault\\Source\\ObstacleAssault.Target.cs",
+			"Path": "..\\Source\\ObstacleAssault.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "ObstacleAssaultEditor",
-			"Path": "C:\\Users\\alexe\\OneDrive\\Documents\\Unreal Projects\\ObstacleAssault\\Source\\ObstacleAssaultEditor.Target.cs",
+			"Path": "..\\Source\\ObstacleAssaultEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]
